@@ -49,3 +49,6 @@ Numbers are printed as Number: <value>
 Operators are printed as Operator: <symbol>
 
 Remaining valid tokens are printed as Identifier: <name>
+
+#OUTPUT 
+![Image](https://github.com/user-attachments/assets/23f24472-1d91-41f8-b5b1-3f29ba19bea5)
